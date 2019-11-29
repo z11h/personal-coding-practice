@@ -1,0 +1,101 @@
+0 Baldur's Gate II: Shadows of Amn
+1 Banjo-Kazooie
+2 Batman: Arkham City
+3 Battlefield 1942
+4 BioShock
+5 Bloodborne
+6 Burnout 3: Takedown
+7 Call of Duty 4: Modern Warfare
+8 Castlevania: Symphony of the Night
+9 Chrono Trigger
+10 Contra
+11 Counter-Strike 1.6
+12 Dark Souls
+13 Deus Ex
+14 Diablo II
+15 Donkey Kong
+16 Doom
+17 Dota 2
+18 EarthBound
+19 Fallout 2
+20 Fallout 3
+21 Final Fantasy Tactics
+22 Final Fantasy VI
+23 Final Fantasy VII
+24 Galaga
+25 GoldenEye 007
+26 Grand Theft Auto V
+27 Grand Theft Auto: San Andreas
+28 Grand Theft Auto: Vice City
+29 Grim Fandango
+30 Half-Life
+31 Half-Life 2
+32 Halo 2
+33 Halo: Combat Evolved
+34 Inside
+35 Journey
+36 League of Legends
+37 Mass Effect
+38 Mass Effect 2
+39 Mega Man 3
+40 Metal Gear Solid
+41 Metal Gear Solid 2: Sons of Liberty
+42 Metal Gear Solid 3: Snake Eater
+43 Metroid Prime
+44 Minecraft
+45 Monkey Island 2: LeChuck's Revenge
+46 Ms. Pac-Man
+47 Overwatch
+48 Persona 4: Golden
+49 Persona 5
+50 Pokémon Go
+51 Pokémon Yellow
+52 Portal
+53 Portal 2
+54 Red Dead Redemption
+55 Resident Evil
+56 Resident Evil 4
+57 Rock Band
+58 Shadow of the Colossus
+59 Sid Meier's Civilization IV
+60 Silent Hill 2
+61 SimCity 2000
+62 Soulcalibur
+63 Spelunky
+64 Star Wars Jedi Knight II: Jedi Outcast
+65 Star Wars: Knights of the Old Republic
+66 Star Wars: TIE Fighter
+67 StarCraft
+68 Street Fighter II
+69 Suikoden II
+70 Super Mario 64
+71 Super Mario Bros.
+72 Super Mario Bros. 3
+73 Super Mario Galaxy
+74 Super Mario Odyssey
+75 Super Mario World
+76 Super Mario World 2
+77 Super Mario World 2: Yoshi's Island
+78 Super Metroid
+79 Super Smash Bros. Melee
+80 System Shock 2
+81 Team Fortress 2
+82 Tetris
+83 The Elder Scrolls V: Skyrim
+84 The Last of Us
+85 The Legend of Zelda
+86 The Legend of Zelda: A Link to the Past
+87 The Legend of Zelda: Breath of the Wild
+88 The Legend of Zelda: Majora's Mask
+89 The Legend of Zelda: Ocarina of Time
+90 The Legend of Zelda: The Wind Waker
+91 The Oregon Trail
+92 The Sims
+93 The Witcher 3: Wild Hunt
+94 The Witness
+95 Thief II: The Metal Age
+96 Uncharted 2: Among Thieves
+97 Undertale
+98 Warcraft II: Tides of Darkness
+99 World of Warcraft
+100 X-COM: UFO Defense
